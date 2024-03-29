@@ -1,1 +1,1 @@
-ALTER TABLE table1 DROP CONSTRAINT chk_check_constraint;
+ALTER TABLE table1 DROP new_column;
