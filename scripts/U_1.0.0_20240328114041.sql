@@ -1,2 +1,0 @@
-DROP TABLE test;
-DROP VIEW view2;
