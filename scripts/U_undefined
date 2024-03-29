@@ -1,2 +1,1 @@
-ALTER TABLE table1 ADD CONSTRAINT chk_check_constraint CHECK (`age` > 0);
-ALTER TABLE table1 DROP CONSTRAINT chk_check_constraint;
+ALTER TABLE table1 ADD CONSTRAINT chk_check_constraint CHECK (`age` > 0);;
