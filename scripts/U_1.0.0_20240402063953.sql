@@ -1,0 +1,1 @@
+ALTER TABLE testextra DROP PRIMARY KEY
