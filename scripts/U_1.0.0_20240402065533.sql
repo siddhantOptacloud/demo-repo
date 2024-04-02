@@ -1,0 +1,2 @@
+ALTER TABLE testextra MODIFY id int NULL;
+ALTER TABLE testextra DROP PRIMARY KEY
