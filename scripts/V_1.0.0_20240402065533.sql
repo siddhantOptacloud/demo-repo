@@ -1,0 +1,2 @@
+ALTER TABLE testextra MODIFY id int NOT NULL;
+ALTER TABLE testextra ADD PRIMARY KEY (id); 
